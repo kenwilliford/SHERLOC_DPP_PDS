@@ -1,7 +1,7 @@
 # SHERLOC_DPP_PDS
 Data processing pipeline for publicly available SHERLOC data in the PDS archive
 
-This program is hosted at:
+This program is hosted at: https://github.com/kenwilliford/SHERLOC_DPP_PDS
 
 Description: This Jupyter Notebook will process and visualize data from the NASA Mars 2020 SHERLOC instrument, an ultraviolet fluorescence and Raman spectrometer and imaging system mounted on the robotic arm of the Perseverance rover. More information about SHERLOC and its data can be found at the SHERLOC archive on the PDS Geosciences Node here: https://pds-geosciences.wustl.edu/missions/mars2020/sherloc.htm. This notebook assumes some familiarity with SHERLOC and its data structure as described in the SHERLOC PDS User Guide: https://pds-geosciences.wustl.edu/m2020/urn-nasa-pds-mars2020_sherloc/document/sherloc_user_guide.pdf.
 
