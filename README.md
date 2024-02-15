@@ -1,5 +1,9 @@
 # SHERLOC_DPP_PDS
-Data processing pipeline for publicly available SHERLOC data in the PDS archive
+
+A data processing pipeline for publicly available SHERLOC data in the PDS archive
+
+![PIA23621](https://github.com/kenwilliford/SHERLOC_DPP_PDS/assets/132492136/888bbe9e-169e-4834-adbf-d4f56715243b)
+*Mars 2020 SHERLOC instrument prior to launch.* Image credit: [NASA/JPL-Caltech](https://mars.nasa.gov/resources/24778/close-up-of-nasas-mars-2020-rovers-sherloc-instrument/).
 
 This program is hosted at: https://github.com/kenwilliford/SHERLOC_DPP_PDS
 
