@@ -23,4 +23,4 @@ Instructions:
 5. Once the code in SHERLOC_DPP_PDS_KHW.ipynb is complete and the file at target/sol_target_scan_multifits.csv has been created, manually inspect Gaussian fits and note any peak_ids_to_reject.
 6. Open SHERLOC_DPP_PDS_manual_KHW.ipynb, define peak_ids_to_reject, and run the code in that notebook to generate maps with preliminary mineral detections.
 
-This notebook was created by Ken Williford and tested using Python 3.11.4
+These notebooks were created by Ken Williford and tested using Python 3.11.4
