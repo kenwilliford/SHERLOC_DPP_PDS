@@ -20,5 +20,7 @@ Instructions:
 - ACI image (e.g. SC3_0861_0743401530_113ECM_N0420000SRLC11374_0000LMJ01.PNG)
 3. Define variables in PARAMETERS cell below.
 4. Sequentially read descriptions and run each cell below, or (if confident with parameter settings, etc.) simply Run All Cells to transform data, remove cosmic rays, baseline fit and subtract (both before and after cosmic ray removal), and attempt Gaussian peak fitting in the spectral region where Raman peaks from common minerals occur.
+5. Once the code in SHERLOC_DPP_PDS_KHW.ipynb is complete and the file at target/sol_target_scan_multifits.csv has been created, manually inspect Gaussian fits and note any peak_ids_to_reject.
+6. Open SHERLOC_DPP_PDS_manual_KHW.ipynb, define peak_ids_to_reject, and run the code in that notebook to generate maps with preliminary mineral detections.
 
 This notebook was created by Ken Williford and tested using Python 3.11.4
