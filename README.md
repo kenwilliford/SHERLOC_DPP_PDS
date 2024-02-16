@@ -2,6 +2,9 @@
 
 A data processing pipeline for publicly available SHERLOC data in the PDS archive
 
+![Mars_Perseverance_NLF_0017_0668452386_425ECM_N0030578NCAM00183_01_290J](https://github.com/kenwilliford/SHERLOC_DPP_PDS/assets/132492136/a8a93f8e-f782-403a-b590-36d92a05c6ab)
+*Mars 2020 Sol 17, SHERLOC (and the coring drill) on Mars, at the end of the rover's robotic arm.* Image credit [NASA/JPL-Caltech](https://mars.nasa.gov/mars2020/multimedia/raw-images/NLF_0017_0668452386_425ECM_N0030578NCAM00183_01_290J).
+
 ![PIA23621](https://github.com/kenwilliford/SHERLOC_DPP_PDS/assets/132492136/888bbe9e-169e-4834-adbf-d4f56715243b)
 *Mars 2020 SHERLOC instrument prior to launch.* Image credit: [NASA/JPL-Caltech](https://mars.nasa.gov/resources/24778/close-up-of-nasas-mars-2020-rovers-sherloc-instrument/).
 
