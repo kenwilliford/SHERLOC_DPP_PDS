@@ -1,4 +1,4 @@
-# SHERLOC_DPP_PDS
+# SHERLOC Data Processing Pipeline
 
 A data processing pipeline for publicly available SHERLOC data in the PDS archive
 
@@ -10,7 +10,9 @@ A data processing pipeline for publicly available SHERLOC data in the PDS archiv
 
 This program is hosted at: https://github.com/kenwilliford/SHERLOC_DPP_PDS
 
-Description: This Jupyter Notebook will process and visualize data from the NASA Mars 2020 SHERLOC instrument, an ultraviolet fluorescence and Raman spectrometer and imaging system mounted on the robotic arm of the Perseverance rover. More information about SHERLOC and its data can be found at the SHERLOC archive on the PDS Geosciences Node here: https://pds-geosciences.wustl.edu/missions/mars2020/sherloc.htm. This notebook assumes some familiarity with SHERLOC and its data structure as described in the SHERLOC PDS User Guide: https://pds-geosciences.wustl.edu/m2020/urn-nasa-pds-mars2020_sherloc/document/sherloc_user_guide.pdf.
+Description: This Jupyter Notebook will process and visualize data from the NASA Mars 2020 SHERLOC instrument, an ultraviolet fluorescence and Raman spectrometer and imaging system mounted on the robotic arm of the Perseverance rover. Output products include raw and baseline-subtracted spectra, Gaussian peak fits for spectral features associated with common mineral classes, and maps of these candidate mineral detections overlain on the highest resolution images available from the Mars 2020 rover. 
+
+More information about SHERLOC and its data can be found at the SHERLOC archive on the PDS Geosciences Node here: https://pds-geosciences.wustl.edu/missions/mars2020/sherloc.htm. This notebook assumes some familiarity with SHERLOC and its data structure as described in the SHERLOC PDS User Guide: https://pds-geosciences.wustl.edu/m2020/urn-nasa-pds-mars2020_sherloc/document/sherloc_user_guide.pdf.
 
 This repository has a subfolder called sol_00861 containing example input files (PDS archived data from the Sol 861 detail_1 scan of Dragons_Egg_Lake) that can be downloaded and used to run the code in the notebook.
 
