@@ -1,4 +1,4 @@
-# SHERLOC Data Processing Pipeline
+# SHERLOC Data Processing and Visualization
 
 A data processing pipeline for publicly available SHERLOC data in the PDS archive
 
