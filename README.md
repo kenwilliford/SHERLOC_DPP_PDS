@@ -10,7 +10,7 @@ A data processing pipeline for publicly available SHERLOC data in the PDS archiv
 
 This program is hosted at: https://github.com/kenwilliford/SHERLOC_DPP_PDS
 
-Description: This Jupyter Notebook will process and visualize data from the NASA Mars 2020 SHERLOC instrument, an ultraviolet fluorescence and Raman spectrometer and imaging system mounted on the robotic arm of the Perseverance rover. Output products include raw and baseline-subtracted spectra, Gaussian peak fits for spectral features associated with common mineral classes, and maps of these candidate mineral detections overlain on the highest resolution images available from the Mars 2020 rover. Example output products from SHERLOC analysis of the Mars target Dragons_Egg_Lake can be found in the Jupyter Notebooks. 
+Description: This Jupyter Notebook will process and visualize data from the NASA Mars 2020 SHERLOC instrument, an ultraviolet fluorescence and Raman spectrometer and imaging system mounted on the robotic arm of the Perseverance rover. Output products include raw and baseline-subtracted spectra, Gaussian peak fits for spectral features associated with common mineral classes, and maps of these candidate mineral detections overlain on the highest resolution images available from the Mars 2020 rover. Example output products from SHERLOC analysis of the Mars target Dragons_Egg_Lake can be found in the Jupyter Notebooks. *Note: these files are provided as functional examples only -- mineral classes mapped in these files are not scientifically confirmed detections, which would require further analysis of individual peaks etc.*
 
 More information about SHERLOC and its data can be found at the SHERLOC archive on the PDS Geosciences Node here: https://pds-geosciences.wustl.edu/missions/mars2020/sherloc.htm. This notebook assumes some familiarity with SHERLOC and its data structure as described in the SHERLOC PDS User Guide: https://pds-geosciences.wustl.edu/m2020/urn-nasa-pds-mars2020_sherloc/document/sherloc_user_guide.pdf.
 
@@ -28,4 +28,4 @@ Instructions:
 5. Once the code in SHERLOC_DPP_PDS_KHW.ipynb is complete and the file at target/sol_target_scan_multifits.csv has been created, manually inspect Gaussian fits and note any peak_ids_to_reject.
 6. Open SHERLOC_DPP_PDS_manual_KHW.ipynb, define peak_ids_to_reject, and run the code in that notebook to generate maps with preliminary mineral detections.
 
-These notebooks were created by Ken Williford and tested using Python 3.11.4
+These notebooks were created by Ken Williford and tested using Python 3.11.4.
